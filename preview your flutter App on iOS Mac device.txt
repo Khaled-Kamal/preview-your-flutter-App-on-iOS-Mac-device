@@ -1,0 +1,20 @@
+
+
+dart file changes:
+
+void main() {
+  runApp(
+      DevicePreview(
+          builder: (context) =
+      MyApp()
+      )
+  );
+}
+
+
+pubspec file:
+
+dependencies:
+  device_preview: 1.2.0
+
+--
